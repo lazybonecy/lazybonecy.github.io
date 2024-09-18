@@ -1,1 +1,4 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer urna urna, porta vel semper vitae, porta vel nibh. Donec et convallis lacus. Duis eleifend consequat odio in viverra. Nulla facilisi. Pellentesque tempus, neque quis mattis malesuada, sapien tellus imperdiet felis, quis sodales odio quam non turpis. In vulputate nisi non lacus egestas, id pulvinar nisl mollis. Suspendisse odio turpis, porttitor in molestie non, facilisis id velit.
+本人在学习上踏实勤奋，积极向上，喜欢和同学讨论并解决问题，经常参加班级学校组织的各种课内外学习活动。
+在个人情商方面，我也深刻认识到自己的不足，字写的不是很好，有时候做事情会只有三分钟热情，有时与同学相处不是很好。我相信只要克服这些问题，我就能做的更好。
+这几年来我学到了很多知识，思想比以前有了很大的提高，希望以后能做一个有理想，有抱负，有文化的人。
+（以上均摘抄自百度百科）
