@@ -1,8 +1,7 @@
 # Site settings
 title: Lazy Bone
-subtitle: A Blog of Learning
 SEOTitle: lazybone's blog
-description: A Blog of Learning
+description: a blog of learning
 keyword: "Lazy Bone, theme, blog, blog theme"
 url: "https://lazybonecy.github.io"      # your host, for absolute URL
 baseurl: ""                                         # for example, '/blog' if your blog hosted on 'host/blog'
