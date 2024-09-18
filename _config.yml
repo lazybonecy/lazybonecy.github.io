@@ -126,8 +126,8 @@ comment:
   gitalk:
     clientID: 'Ov23lihWCa2NeV7ePYzz'
     clientSecret: '19116dc043234d1b568a44e79c26c378883bda90'
-    repo: gitalk-comments
-    owner: This-is-an-Apple
+    repo: lazybonecy.github.io
+    owner: lazybonecy
     admin:
       - Lazy Bone
 
