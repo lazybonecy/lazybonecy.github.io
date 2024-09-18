@@ -129,7 +129,7 @@ comment:
     repo: gitalk-comment 
     owner: lazybonecy
     admin:
-      - Lazy Bone
+      - lazybonecy
 
   # Valine settings
   # https://valine.js.org/
