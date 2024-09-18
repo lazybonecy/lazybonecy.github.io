@@ -100,7 +100,10 @@
           <p class="title">Information</p>
           <ul>
             {% for item in page.information %}
-            <li><p class="info-title">{{ item }}</p></li>
+            <li>
+              <p class="info-title">{{ item.title }}</p>
+              <p class="info-content">{{ item.content }}</p>
+            </li>
             {% endfor %}
           </ul>
         </div>
