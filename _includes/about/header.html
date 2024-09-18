@@ -97,6 +97,14 @@
     <div class="personal-information">
       <div class="row">
         <div class="col-md-5 interests">
+          <p class="title">Information</p>
+          <ul>
+            {% for item in page.information %}
+            <li><p class="info-title">{{ item }}</p></li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div class="col-md-5 interests">
           <p class="title">Interests</p>
           <ul>
             {% for item in page.interests %}
