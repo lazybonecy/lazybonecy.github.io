@@ -126,7 +126,7 @@ comment:
   gitalk:
     clientID: 'Ov23lihWCa2NeV7ePYzz'
     clientSecret: '19116dc043234d1b568a44e79c26c378883bda90'
-    repo: lazybonecy.github.io
+    repo: gitalk-comment 
     owner: lazybonecy
     admin:
       - Lazy Bone
